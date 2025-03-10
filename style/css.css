@@ -1,0 +1,73 @@
+h1 {
+    text-align: center;
+    font-family: arial;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+  }
+
+  nav a:hover {
+    text-decoration: underline;
+  }
+
+  
+  .centrar {
+    margin-left: 85px;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;}
+
+    header {
+        text-align: center;}
+
+        .logo {
+            width: 150px;
+        margin-left: 655px;}
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: lightgray;
+        }
+
+        main {
+            background-color: white;
+            color: black;
+        }
+        .img {
+
+            width: 300px;  }
+            .merocentro {
+                text-align: center;
+            }
+            .imgcenter {
+                
+                width: 300px; 
+                margin-left: 580px; 
+            }
