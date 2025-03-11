@@ -70,4 +70,21 @@ nav ul {
                 
                 width: 300px; 
                 margin-left: 580px; 
+                border-radius: 5px;
+                margin-top: 20px;
+
+            }
+            .textoAlineado {
+              padding: 20px;
+              margin-left: 500px;
+              font-family: Arial, Helvetica, sans-serif;
+              width: 550px;
+              margin-bottom: 20px;
+            }
+            .fondo {
+              color: white;
+              background-color: #333;
+              margin: 0px;
+              padding-top: 10px;
+              padding-bottom: 10px;
             }
